@@ -1,0 +1,14 @@
+1.coding the basic framework of the website is the most challenging piece of the assignment.
+Well, at first, it's a little bit of challenging since the process of putting ideas in mind into practice definitely need some time, however, after getting used to doing so, it becomes approachable more. Feels great, this assignment not only helps with deep the understanding of web design principles and concept, but also integrated them pretty well, giving me a sense of accomplishment.
+
+2.Firstly, using <meta name="viewport" content="width=device-width"> to give the website basic adjustment to different viewport. Secondly, using @media to give more details to web to accommodate different screen size with regard to images, texts, and navbar. Making texts and images shrink and grow with the screen size. Moving the navbar to the right of the screen as a column, decrease opacity to allow user view content in the navbar more clearly.
+
+3.Precise and comfortable viewing. The main color of the web text is similar to light grey, gentle for human eye. Background of main page is basic white, while background image of other pages are magic darker image with light grey text, decorating with little opacity, making the whole web fantasy. The image decorated in the web are all come from my favorite Japanese film KiKi's Delivery Service.
+
+4.Given more time or resources, what additional features would you add to your
+site in the future?
+Add background music and some live video to what I wanna to put on the web, actually I've tried so, however, there exits some bugs that cannot be solved, then just removed. Since in addition to the fantasy background, music with the same theme will allow users feel more pleasant to view my content.
+Of course, more content I wanna to show but not being realized because of limited web coding skills and limited time.
+
+5.How many hours did you spend on this assignment?
+About 12 hours, more time were spent on debugs, since I wanna to exhibit more details, but because of the limited skills, I spent a lot time learning how to code to exhibit such effect, but failed. More skills and knowledge is waiting me to explore is what this assignment taught me.
